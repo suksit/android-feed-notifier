@@ -1,0 +1,10 @@
+[
+  {
+    "name": "me",
+    "value": "my-line-notify-access-token"
+  },
+  {
+    "name": "some random group",
+    "value": "group-line-notify-access-token"
+  }
+]
